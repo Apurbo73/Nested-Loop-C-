@@ -1,6 +1,5 @@
-﻿# Nested-Loop-C
+﻿# Nested-Loop 
 
- Sure! Let's go through the C++ code step by step:
 
 ```cpp
 #include <bits/stdc++.h>
