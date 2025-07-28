@@ -68,5 +68,4 @@ The output will be:
 
 The program prints a square grid of numbers from 1 to `n`, repeated `n` times, forming an `n x n` matrix where each row is identical.
 
-Let me know if you'd like to modify this pattern or add more logic!
 
